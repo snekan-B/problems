@@ -10,6 +10,7 @@ class Solution {
         return false;
         else
         return isPowerOfThree(n/3);
+        print("node")
  
     }
 }
